@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Third Design App</string>
+    <string name="title">Our Scrolling App</string>
+    <string name="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus assumenda deserunt dolor dolores doloribus, ducimus est ipsum
+        iure laudantium, necessitatibus nostrum officia perspiciatis quae quas quidem quod sed vel voluptates.
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum laborum nostrum quibusdam tempora velit? Dol
+        orem ea error fuga ipsum itaque minima, odio quis, quisquam repudiandae, sed ullam voluptatem voluptatibus. Eius?
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ad aut cumque dolore error eveniet laborum molestiae perferend
+        is perspiciatis placeat, provident quia quidem sint totam unde. Dolor est fugiat natus?
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet atque, blanditiis deleniti deserunt harum ipsum itaque laudantium mollitia nesciunt offi
+        ciis optio pariatur perferendis placeat porro quibusdam suscipit unde velit.
+    </string>
+</resources>
